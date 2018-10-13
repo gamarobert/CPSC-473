@@ -179,7 +179,8 @@ li a:active {
   margin-left: 10px;
   margin-right: 10px;
 }
-  /*=== footer container ==*/
+
+/*=== footer container ==*/
 .footer-container {
   display: flex;
   flex-direction: row;
